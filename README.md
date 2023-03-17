@@ -1,1 +1,1 @@
-# ekpa_askiseis
+# Example of README
