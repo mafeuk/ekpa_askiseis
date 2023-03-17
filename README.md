@@ -1,2 +1,2 @@
 # Example of README
-[link text itself]: http://www.reddit.com
+[link text itself]: (http://www.reddit.com)
